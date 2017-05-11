@@ -217,10 +217,58 @@ color: floralwhite;
     position: absolute;
     font-family: Courier New, Courier, monospace;
     color: white;
-    top: 0px;
-    left: 0px;
+    top: 70px;
+    text-align: center;
 }
 
+#aboutus {
+    position: relative;
+}
+
+#About-Us {
+    z-index: -1;
+}
+
+#aboutstuff {
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+    line-height: 0px;
+}
+
+#home {
+    position: relative;
+}
+
+#homestuff {
+    position: absolute;
+    color: white;
+    top: 200px;
+    left: 1000px;
+}
+
+#Past-Work {
+    z-index: -1;
+}
+
+#pastwork {
+    position: relative;
+}
+
+#pastworkstuff {
+    position: absolute;
+    color: white;
+    top: 80px;
+    left: 60px;
+    font-family: Courier New, Courier, monospace;
+}
+
+#caro {
+    background-color: tan;
+    margin: 0px;
+    padding: 0px;
+}
 
 
 
