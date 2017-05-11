@@ -129,7 +129,7 @@ ul {
 li {
     padding: 10px;
 }
-.Services-Container {
+#Services-Container {
     background-color: tan;
     margin: 0px;
 }
@@ -205,7 +205,7 @@ color: floralwhite;
 }
 
 #Services {
-    opacity: 0.6px;
+    opacity: 0.3px;
     z-index: -1;
 }
 
@@ -216,6 +216,9 @@ color: floralwhite;
 #headers {
     position: absolute;
     font-family: Courier New, Courier, monospace;
+    color: white;
+    top: 0px;
+    left: 0px;
 }
 
 
