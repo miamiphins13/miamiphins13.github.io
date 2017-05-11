@@ -179,7 +179,7 @@ color: floralwhite;
 }
 
 #contactus {
-    opacity: 0.4;
+    opacity: 0.2;
     z-index: -1;
 }
 
@@ -213,7 +213,6 @@ color: floralwhite;
 }
 
 #Services {
-    opacity: 0.3px;
     z-index: -1;
 }
 
