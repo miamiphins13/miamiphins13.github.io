@@ -136,10 +136,17 @@ li {
 
 #modal {
     text-align: center;
+    background-color: tan;
+    border-bottom: 5px solid firebrick;
+    border-left: 5px solid firebrick;
+    border-right: 5px solid firebrick;
 }
 
 #saying {
     text-align: center;
+    background-color: tan;
+    border-left: 5px solid firebrick;
+    border-right: 5px solid firebrick;
 }
 
 html {
@@ -190,6 +197,7 @@ color: floralwhite;
 #header {
     text-align: center;
     font-family: Courier New, Courier, monospace;
+    right: 90px;
 }
 
 #goog {
@@ -233,8 +241,13 @@ color: floralwhite;
     color: white;
     position: absolute;
     top: 60px;
-    left: 30px;
+    left: 300px;
     line-height: 0px;
+    text-align: center;
+}
+
+#aboutstuff h4 {
+    font-size: 23px;
 }
 
 #home {
@@ -245,7 +258,11 @@ color: floralwhite;
     position: absolute;
     color: white;
     top: 200px;
-    left: 1000px;
+    left: 900px;
+}
+
+#homestuff h1 {
+font-size: 50px;
 }
 
 #Past-Work {
@@ -268,10 +285,56 @@ color: floralwhite;
     background-color: tan;
     margin: 0px;
     padding: 0px;
+    border-right: 5px solid firebrick;
+    border-left: 5px solid firebrick;
+    border-top: 5px solid firebrick;
 }
 
+.navbar-home {
+    color: firebrick;
+}
 
+.navbar-about {
+    color: firebrick;
+}
 
+.navbar-services {
+    color: firebrick;
+}
+
+.navbar-pastWork {
+    color: firebrick;
+}
+
+.navbar-contactUs {
+    color: firebrick;
+}
+
+.navbar-home:hover {
+    color: white;
+}
+
+.navbar-about:hover {
+    color: white;
+}
+
+.navbar-services:hover {
+    color: white;
+}
+
+.navbar-pastWork:hover {
+    color: white;
+}
+
+.navbar-contactUs:hover {
+    color: white;
+}
+
+#about {
+    text-align: center;
+    right: 240px;
+    font-family: Courier New, Courier, monospace;
+}
 
 
 /* ==========================================================================
