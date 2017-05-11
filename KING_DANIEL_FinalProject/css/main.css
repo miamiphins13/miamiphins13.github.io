@@ -133,9 +133,6 @@ li {
     background-color: tan;
     margin: 0px;
 }
-#Contact-Us {
-opacity: 0.6;
-}
 
 #modal {
     text-align: center;
@@ -166,11 +163,17 @@ background-color: grey;
 color: floralwhite;
 }
 
+#contactinfo {
+    border-right: 5px solid grey;
+}
 
+#review {
+    margin-left: 10px;
+}
+#contactusbody {
+    background-image: url("img/apartment.jpg");
 
-
-
-
+}
 
 
 
