@@ -172,18 +172,54 @@ color: floralwhite;
 }
 
 #contactus {
-    opacity: 0.6;
+    opacity: 0.4;
     z-index: -1;
 }
 
-containerc {
+#containerc {
     position: relative;
 }
 
-middlestuff {
+#middlestuff {
     position: absolute;
     color: black;
+    top: 50px;
+    left: 150px;
 }
+
+#header {
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+}
+
+#goog {
+    margin: 0px;
+    padding: 0px;
+    background-color: grey;
+    border-top: 5px solid firebrick;
+}
+
+#tags {
+    text-align: right;
+    color: firebrick;
+}
+
+#Services {
+    opacity: 0.6px;
+    z-index: -1;
+}
+
+#Servicespic {
+    position: relative;
+}
+
+#headers {
+    position: absolute;
+    font-family: Courier New, Courier, monospace;
+}
+
+
+
 
 
 
